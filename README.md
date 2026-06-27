@@ -1,12 +1,18 @@
+ ### hi, i'm pablo
 
+  i build things — software, music, computers, homelabs. whatever's interesting.
 
+  **currently shipping:**
+  - [jellyfin-tui](https://github.com/paliy0/jellyfin-tui) — terminal music player built in Rust
+  - [defrost](https://github.com/paliy0/defrost) — mobile music streaming app (React Native)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=paliy0&show_icons=true&locale=en" alt="paliy0" /></p>
+  <br/>
 
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paliy0&show_icons=true&locale=en&layout=compact" alt="paliy0" /></p>
+  <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paliy0&label=Profile%20views&color=0e75b6&style=flat" alt="paliy0" /> </p>
-
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=paliy0&show_icons=true&hide_border=true&theme=default&hide=contribs,prs" />
