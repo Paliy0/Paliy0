@@ -1,10 +1,11 @@
- ### hi, i'm pablo
+### hi, i'm pablo
 
-  i build things — software, music, computers, homelabs. whatever's interesting.
+  i build things and take them apart to see how they work.
+  software, music, computers, homelabs — whatever's interesting.
 
   **currently shipping:**
-  - [jellyfin-tui](https://github.com/paliy0/jellyfin-tui) — terminal music player built in Rust
-  - [defrost](https://github.com/paliy0/defrost) — mobile music streaming app (React Native)
+  - [jellyfin-tui](https://github.com/paliy0/jellyfin-tui) — terminal music player in Rust
+  - [defrost](https://github.com/paliy0/defrost) — mobile music app (React Native)
 
   <br/>
 
@@ -15,4 +16,12 @@
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=paliy0&show_icons=true&hide_border=true&theme=default&hide=contribs,prs" />
+  <img src="https://streak-stats.demolab.com?user=paliy0&hide_border=true&theme=transparent" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paliy0&hide_border=true&theme=minimal&area=true" />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paliy0/paliy0/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paliy0/paliy0/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/paliy0/paliy0/output/github-contribution-grid-snake.svg" />
+  </picture>
