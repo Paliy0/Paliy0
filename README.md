@@ -4,7 +4,6 @@
   software, music, computers, homelabs — whatever's interesting.
 
   **currently shipping:**
-  - [jellyfin-tui](https://github.com/paliy0/jellyfin-tui) — terminal music player in Rust
   - [defrost](https://github.com/paliy0/defrost) — mobile music app (React Native)
 
   <br/>
